@@ -1,0 +1,10 @@
+main - INFO - getFolder {'path': '/', 'auth': None, 'password': 'admin'}
+main - INFO - getFolder {'path': '/', 'auth': None, 'password': 'BIDAdmin'}
+main - INFO - createNewFolder {'name': 'Bank', 'path': '/', 'password': 'BIDAdmin'}
+main - INFO - getFolder {'path': '/', 'auth': None, 'password': 'BIDAdmin'}
+ed.
+utils.directoryHandler - INFO - Starting backup drive data task.
+utils.directoryHandler - INFO - Backing up drive data to Telegram.
+utils.directoryHandler - INFO - Drive data backed up to Telegram successfully.
+utils.directoryHandler - INFO - Creating new folder 'Bank' in path '/'.
+utils.directoryHandler - INFO - Drive data saved successfully.
